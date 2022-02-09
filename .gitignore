@@ -1,4 +1,6 @@
-glove.twitter.27B.25d.txt.gz
+resources/glove.twitter.27B.25d.txt.gz
+resources/stance-semeval2016
+resources/fake_rada
 
 ### MicrosoftOffice ###
 *.tmp
