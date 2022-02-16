@@ -11,8 +11,9 @@ The objective of this course is to introduce the field of Natural Language Proce
 
 | Slides                                    | Lab1                              | Lab2                                                             |
 | ----------------------------------------- | --------------------------------- | ---------------------------------------------------------------- |
-| 1. Introduction to Multilingual NLP tasks | 1. Spacy basics.                  | 1. Training text classifiers with Spacy                          |
+| 1. Introduction to Multilingual NLP tasks | 1. Spacy basics                   | 1. Training text classifiers with Spacy                          |
 | 2. Text Classification                    | 2. Feature Based Stance Detection | 2. Stance Detection with Logistic Regression and Word Embeddings |
+| 3. Fake News, Fact-checking, Stance       | 3. Flair basics                   | 3. Flair text classification training                            |
 
 ## Evaluation procedure
 
