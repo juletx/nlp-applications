@@ -1,6 +1,7 @@
 resources/glove.twitter.27B.25d.txt.gz
 resources/stance-semeval2016
 resources/fake_rada
+resources/flair-ner-eu
 
 ### MicrosoftOffice ###
 *.tmp
