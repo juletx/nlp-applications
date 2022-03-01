@@ -3,6 +3,9 @@ resources/stance-semeval2016
 resources/fake_rada
 resources/flair-ner-eu
 resources/flair-lemma-eu
+resources/flair-aspects-en
+resources/flair-acb-en
+resources/flair-polarity-en
 
 ### MicrosoftOffice ###
 *.tmp
