@@ -6,6 +6,7 @@ resources/flair-lemma-eu
 resources/flair-aspects-en
 resources/flair-acb-en
 resources/flair-polarity-en
+resources/bert-multilabel-acd-en
 
 ### MicrosoftOffice ###
 *.tmp
