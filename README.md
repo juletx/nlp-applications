@@ -9,12 +9,17 @@ The objective of this course is to introduce the field of Natural Language Proce
 
 ## Contents
 
-| Slides                                               | Lab1                              | Lab2                                                             |
-| ---------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------- |
-| 1. Introduction to Multilingual NLP tasks            | 1. Spacy basics                   | 1. Training text classifiers with Spacy                          |
-| 2. Text Classification                               | 2. Feature Based Stance Detection | 2. Stance Detection with Logistic Regression and Word Embeddings |
-| 3. Fake News, Fact-checking, Stance                  | 3. Flair basics                   | 3. Flair text classification training                            |
-| 4. Word Representations for Named Entity Recognition | 4. Flair NER tagging training     |                                                                  |
+| Slides                                               | Labs                                                                          |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1. Introduction to Multilingual NLP tasks            | 1. Spacy basics. Training text classifiers with Spacy                         |
+| 2. Text Classification                               | 2. Feature Based Stance Detection. Stance Detection with Logistic Regression. |
+| 3. Fake News, Fact-checking, Stance                  | 3. Flair basics. Flair text classification training                           |
+| 4. Word Representations for Named Entity Recognition | 4. Flair NER tagging training                                                 |
+| 5. Contextual Lemmatization and Morphology           | 5. Neural contextual lemmatization as sequence labelling                      |
+| 6. Opinion Mining - Aspect Based Sentiment Analysis  | 6. Aspect-based Target Extraction - Sentiment Analysis                        |
+| 7. Question Answering and other intermediate tasks   | 7. Sequence Labelling and Multilabel classification with Transformers         |
+| 8. Argumentation and Inference                       | 8. Argument Mining and Argument Relation Extraction                           |
+| 9. Text generation tasks                             | 9. Generating counter-arguments                                               |
 
 ## Evaluation procedure
 
