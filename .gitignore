@@ -8,6 +8,7 @@ resources/flair-acb-en
 resources/flair-polarity-en
 resources/bert-multilabel-acd-en
 resources/transformers-ner
+resources/es-post-50e
 
 ### MicrosoftOffice ###
 *.tmp
