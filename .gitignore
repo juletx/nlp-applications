@@ -10,6 +10,8 @@ resources/bert-multilabel-acd-en
 resources/transformers-ner
 resources/es-post-50e
 
+project/hyperpartisan-news-detection
+
 ### MicrosoftOffice ###
 *.tmp
 
