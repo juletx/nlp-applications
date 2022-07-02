@@ -1,4 +1,4 @@
-# Natural Language Processing Applications
+# NLP Applications I: Text Classification, Sequence Labeling, Opinion Mining and Question Answering
 
 ## Objectives
 
